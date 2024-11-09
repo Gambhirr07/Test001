@@ -1,5 +1,5 @@
 # Define a Node class
-class Node:
+class Node: #this is changed by keerthi
     def __init__(self, data=None):
         self.data = data  # Stores the data
         self.next = None  # Pointer to the next node (initially None)
