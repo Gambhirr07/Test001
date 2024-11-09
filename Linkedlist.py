@@ -3,7 +3,7 @@ class Node: #this is changed by satwik
     def __init__(self, data=None):
         self.data = data  # Stores the data
         self.next = None  # Pointer to the next node (initially None)
-
+huehehehe
 # Define a LinkedList class
 class LinkedList:
     def __init__(self):
