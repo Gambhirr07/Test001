@@ -33,7 +33,7 @@ nvedfjnjfkj
         while curr:
             nextq = curr.next
             curr.next = prev
-
+i bro
             prev = curr
             curr = nextq
         self.head = prev
