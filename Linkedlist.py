@@ -1,9 +1,9 @@
 # Define a Node class
-class Node: #this is changed by satwik
+class Node:
     def __init__(self, data=None):
         self.data = data  # Stores the data
         self.next = None  # Pointer to the next node (initially None)
-huehehehe
+
 # Define a LinkedList class
 class LinkedList:
     def __init__(self):
@@ -20,7 +20,7 @@ class LinkedList:
         while last.next:
             last = last.next
         last.next = new_node  # Set the next of the last node to the new node
-
+nvedfjnjfkj
     # Method to print the linked list
     def print_list(self):
         current = self.head
